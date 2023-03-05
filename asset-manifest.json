@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aniversario-paloma/static/css/main.073c9b0a.css",
+    "main.js": "/aniversario-paloma/static/js/main.8b43a6a4.js",
+    "static/js/787.e98793b3.chunk.js": "/aniversario-paloma/static/js/787.e98793b3.chunk.js",
+    "static/media/logo.svg": "/aniversario-paloma/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aniversario-paloma/index.html",
+    "main.073c9b0a.css.map": "/aniversario-paloma/static/css/main.073c9b0a.css.map",
+    "main.8b43a6a4.js.map": "/aniversario-paloma/static/js/main.8b43a6a4.js.map",
+    "787.e98793b3.chunk.js.map": "/aniversario-paloma/static/js/787.e98793b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b43a6a4.js"
+  ]
+}
